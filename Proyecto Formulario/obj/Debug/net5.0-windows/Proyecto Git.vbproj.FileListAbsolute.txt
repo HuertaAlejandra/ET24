@@ -1,0 +1,38 @@
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.exe
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.deps.json
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.runtimeconfig.json
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.runtimeconfig.dev.json
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.dll
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\bin\Debug\net5.0-windows\ref\Proyecto Git.dll
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.pdb
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.vbproj.AssemblyReference.cache
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto_Git.Form1.resources
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto_Git.Form2.resources
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.vbproj.GenerateResource.cache
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.GeneratedMSBuildEditorConfig.editorconfig
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.AssemblyInfoInputs.cache
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.AssemblyInfo.vb
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.vbproj.CoreCompileInputs.cache
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.dll
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\ref\Proyecto Git.dll
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.pdb
+E:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.genruntimeconfig.cache
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.exe
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.deps.json
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.runtimeconfig.json
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.runtimeconfig.dev.json
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.dll
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\bin\Debug\net5.0-windows\ref\Proyecto Git.dll
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\bin\Debug\net5.0-windows\Proyecto Git.pdb
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.vbproj.AssemblyReference.cache
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto_Git.Form1.resources
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto_Git.Form2.resources
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.vbproj.GenerateResource.cache
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.GeneratedMSBuildEditorConfig.editorconfig
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.AssemblyInfoInputs.cache
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.AssemblyInfo.vb
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.vbproj.CoreCompileInputs.cache
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.dll
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\ref\Proyecto Git.dll
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.pdb
+D:\.2022\Desarrollo de Sistemas 6° 6°\Proyecto Git\obj\Debug\net5.0-windows\Proyecto Git.genruntimeconfig.cache
